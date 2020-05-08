@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95a7de08-3a0e-452c-8244-bd561f1aada3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal project1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/META-INF/FInal project1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/application/ApplicationButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/application/ApplicationField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/application/ApplicationLabel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/application/ApplicationPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/AdminPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/AdminPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/AdminPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/AdminPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/CatalogPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/CatalogPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/CatalogPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/CatalogPage$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/CatalogPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientMainFrame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClientSocket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClothesPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClothesPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClothesPage$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/ClothesPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/HistoryPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/IncomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/LoginPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/LoginPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/MainMenu$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/MainMenu$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/MainMenu$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/MainMenu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/RegisterPage$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/RegisterPage$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/client/pages/RegisterPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/data/Bought.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/data/Clothe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/data/Good.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/data/Packet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/data/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/server/ServerApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/Shop/server/ServerThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/com/company/FrameDesign$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/com/company/FrameDesign.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FInal project1/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/application/ApplicationButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/application/ApplicationField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/application/ApplicationLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/application/ApplicationPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/CatalogPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/ClientFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/ClientMainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/ClientPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/ClientSocket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/ClothesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/HistoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/IncomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/MainMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/client/pages/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/data/Bought.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/data/Clothe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/data/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/data/Packet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/server/ServerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Shop/server/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/FrameDesign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\saila\IdeaProjects\FInal project1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b3BYeRAHDzJXlL9DM5vRt36pyY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Application.ClientMainFrame">
+    <configuration name="ClientMainFrame" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shop.client.pages.ClientMainFrame" />
+      <module name="FInal project1" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="FInal project1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shop.server.ServerApp" />
+      <module name="FInal project1" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientMainFrame" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ServerApp" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a7de08-3a0e-452c-8244-bd561f1aada3" name="Default Changelist" comment="" />
+      <created>1587850945704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587850945704</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588798973920">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1588798973920" />
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser" timestamp="1588810149718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="129" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588810149718" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588680238036">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588680238036" />
+    <state x="523" y="129" key="DetectedRootsChooserDialog" timestamp="1588507497385">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="129" key="DetectedRootsChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588507497385" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1588926980359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588926980359" />
+    <state x="603" y="312" width="354" height="199" key="Github.CreateGistDialog" timestamp="1588926580919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="603" y="312" width="354" height="199" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1588926580919" />
+    <state x="637" y="307" key="Github.ShareDialog" timestamp="1588925424368">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="307" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1588925424368" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1588925336542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588925336542" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1588925336542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588925336542" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1588925336542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588925336542" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1588925336542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588925336542" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588798043192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588798043192" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588798043192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588798043192" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588798043192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588798043192" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588798043192">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588798043192" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1588926157773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588926157773" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588903184524">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588903184524" />
+    <state x="209" y="34" key="new project wizard" timestamp="1588675617378">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588675617378" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1588798112465">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588798112465" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588504600530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588504600530" />
+    <state x="231" y="167" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1588899144537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="231" y="167" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1536.824@0.0.1536.824" timestamp="1588899144537" />
+  </component>
+</project>
