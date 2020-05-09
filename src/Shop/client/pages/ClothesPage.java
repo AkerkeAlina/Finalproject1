@@ -173,6 +173,7 @@ public class ClothesPage extends ApplicationPanel {
         deleteButton.setBounds(680, 150, 150, 30);
         add(deleteButton);
 
+
         refreshButton=new ApplicationButton("REFRESH");
         refreshButton.setBounds(680, 210, 150, 30);
         add(refreshButton);
